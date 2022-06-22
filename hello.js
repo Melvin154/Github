@@ -1,3 +1,3 @@
 a=30;
-b=400;
+b=4;
 console.log(b-a);
