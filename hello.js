@@ -1,3 +1,3 @@
-a=30;
-b=400;
-console.log(b);
+a=50;
+b=40;
+console.log(b*a);
