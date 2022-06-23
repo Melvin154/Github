@@ -1,3 +1,3 @@
 a=500;
-b=800;
+b=80;
 console.log(b-a);
