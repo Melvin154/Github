@@ -1,3 +1,3 @@
-a=30;
-b=40;
+a=8;
+b=5;
 console.log(b*a);
