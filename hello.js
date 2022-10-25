@@ -1,4 +1,4 @@
-a=500;
-b=80;
+a=50;
+b=20;
 console.log(b-a);
 console.log('hello world');
